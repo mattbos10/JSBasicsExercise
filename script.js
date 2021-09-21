@@ -39,3 +39,7 @@ console.log('DOCTOR STRANGE'[13]);
 console.log('THOR'[3]);
 console.log('STAR-LORD'[0]);
 // 5
+var m = 25;
+var c = 4;
+var u = m + c;
+console.log(u);
